@@ -1,7 +1,7 @@
 // Vola : fonctionne hors ligne après la première ouverture.
-// Pour publier une mise à jour, changez VERSION (par exemple vola-v2).
+// Pour publier une mise à jour, changez VERSION (par exemple vola-v3).
 // Le nom du cache commence par "vola-" : cette appli ne touche pas aux caches des autres applis du même compte GitHub.
-const VERSION = "vola-v1";
+const VERSION = "vola-v2";
 const CORE = [
   "./",
   "index.html",
